@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "json-dup-key-validator": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syxov/json-dup-key-validator-loader"
   }
 }
